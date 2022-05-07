@@ -12,7 +12,6 @@ from tkinter.messagebox import showerror
 
 from setuptools import Command
 
-from tempTela import button_clicked
 
 
 #app size
